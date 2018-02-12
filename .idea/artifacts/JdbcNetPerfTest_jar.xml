@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JdbcNetPerfTest:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JdbcNetPerfTest_jar</output-path>
+    <root id="archive" name="JdbcNetPerfTest.jar">
+      <element id="module-output" name="JdbcNetPerfServer" />
+    </root>
+  </artifact>
+</component>
